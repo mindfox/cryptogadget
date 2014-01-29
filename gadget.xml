@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gadget>
+  <name>Crypto Gadget</name>
+  <namespace>Crypto Gadget</namespace>
+  <version>1.0.1.0</version>
+  <author name="Anonymous">
+    <info text="Anonymous" />
+		<logo src="images\bc128.png" />
+  </author>
+  <copyright>2014 Anonymous</copyright>
+  <description>Crypto Market Gadget</description>
+  <icons>
+    <icon src="images\bc48.png" />
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="cgadget.html" />
+      <permissions>full</permissions>
+      <platform minPlatformVersion="1.0" />
+      <defaultImage src="images\bc128.png" />
+    </host>
+  </hosts>
+</gadget>
