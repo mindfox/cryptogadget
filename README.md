@@ -1,5 +1,5 @@
-cryptogadget
-============
+Crypto Gadget for Windows
+=========================
 
 Crypto Gadget
 
